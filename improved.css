@@ -1,0 +1,12 @@
+.fbx #globalContainer {
+  width: auto !important;
+  padding: 0 50px !important;
+}
+
+._2nb, ._2nb .uiScrollableAreaBody, ._2nb .uiScrollableArea{
+  width: 705px !important;
+}
+
+#pagelet_sidebar, #rightCol{
+  display: none;
+}
